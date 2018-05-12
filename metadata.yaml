@@ -1,0 +1,30 @@
+_repo: Confessions-of-a-Book-Lover_24003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Egan, Maurice Francis
+    birthdate: 1852
+    deathdate: 1924
+    gutenberg_agent_id: '26158'
+    url: http://www.gutenberg.org/2009/agents/26158
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading'
+- !lcc 'Z'
+tableOfContents: 'My boyhood reading: Early recollections; The Bible; Essays and essayists
+  -- Poets and poetry: France, of Maurice de Guérin; Dante; English and American verse
+  -- Certain novelists -- Letters, biographies, and memoirs -- Books at random.'
+title: Confessions of a Book-Lover
+url: http://www.gutenberg.org/ebooks/24003
