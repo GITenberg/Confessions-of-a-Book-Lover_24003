@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Books and reading'
 - !lcc 'Z'
+- GITenberg
 tableOfContents: 'My boyhood reading: Early recollections; The Bible; Essays and essayists
   -- Poets and poetry: France, of Maurice de Guérin; Dante; English and American verse
   -- Certain novelists -- Letters, biographies, and memoirs -- Books at random.'
